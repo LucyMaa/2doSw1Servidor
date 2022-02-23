@@ -1,6 +1,6 @@
 2do Parcial Sw1 Servidor Photo Gallery usando una IA de reconocimiento facial
 
-# NodeJs como servidor & Angular para el cliente
+# NodeJs como servidor 
 -Servidor (Strapi Node): https://my-photogallery-server.herokuapp.com/admin
 Firebase cloud message para notificaciones 
 Amazon es el storage de las imagenes 
